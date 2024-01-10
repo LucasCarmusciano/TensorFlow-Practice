@@ -1,0 +1,2 @@
+04.[[:space:]]Transfer[[:space:]]Learning/Part2/10_food_classes_10_percent.zip filter=lfs diff=lfs merge=lfs -text
+04.[[:space:]]Transfer[[:space:]]Learning/Part2/10_food_classes_1_percent.zip filter=lfs diff=lfs merge=lfs -text
